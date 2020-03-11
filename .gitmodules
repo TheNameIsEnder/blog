@@ -1,0 +1,4 @@
+[submodule "softwareenlightenment/public"]
+	path = softwareenlightenment/public
+	url = https://github.com/jakehell/jakehell.github.io.git
+	branch = master

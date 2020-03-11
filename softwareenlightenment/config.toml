@@ -1,0 +1,28 @@
+baseURL = "/"
+title = "Software Enlightenment"
+author = "Jacob Hell"
+paginate = 3
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+theme = "harbor"
+
+[Author]
+  name = "Jacob Hell"
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 10
+
+[params]
+  mainSections = ["post"]
+  favicon = "favicon.ico"
+
+#  [params.logo]
+#    url = "icon.png"
+#    width = 50
+#    height = 50
+#    alt = "Logo"
