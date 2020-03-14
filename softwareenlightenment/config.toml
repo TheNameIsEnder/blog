@@ -8,6 +8,9 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 theme = "harbor"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [Author]
   name = "Jacob Hell"
 
