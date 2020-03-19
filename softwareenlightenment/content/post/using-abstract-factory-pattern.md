@@ -11,7 +11,7 @@ tags = [
 
 +++
 
-When working on a legacy system, one of the more common problems I see are a lot of similar action happening within if/else or control statements.
+When working on a legacy system, one of the more common problems I see is similar actions happening within if/else or control statements.
 
 <!--more-->
 
