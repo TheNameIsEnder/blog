@@ -19,6 +19,13 @@ theme = "harbor"
   name = "About"
   url = "/about/"
   weight = 10
+  
+[[menu.main]]
+  identifier = "rss"
+  name = "RSS"
+  icon = "fas fa-rss"
+  url = "/index.xml"
+  weight = 10
 
 [params]
   mainSections = ["post"]
