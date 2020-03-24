@@ -11,7 +11,7 @@ theme = "harbor"
 [markup.goldmark.renderer]
   unsafe = true
 
-googleAnalytics = "UA-161403382-1"
+GoogleAnalytics = "UA-161403382-1"
 
 [Author]
   name = "Jacob Hell"
