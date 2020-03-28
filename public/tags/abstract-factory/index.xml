@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>abstract factory on Software Enlightenment</title>
+    <link>/tags/abstract-factory/</link>
+    <description>Recent content in abstract factory on Software Enlightenment</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/abstract-factory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Have a lot of if/else Statements Doing Similar Things? Use an Abstract Factory!</title>
+      <link>/post/using-abstract-factory-pattern/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/using-abstract-factory-pattern/</guid>
+      <description>&lt;p&gt;When working on a legacy system, one of the more common problems I see is similar actions happening within if/else or control statements.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

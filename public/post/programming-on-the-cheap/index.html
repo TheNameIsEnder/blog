@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+<title>Software Enlightenment</title>
+
+  
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+<link rel="alternate" type="application/rss+xml" href="/index.xml" title="Site Title">
+
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP|Roboto&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/main.css" />
+<link rel="stylesheet" href="/css/syntax.css" />
+<link disabled id="dark-mode-theme" rel="stylesheet" href="/css/dark.css" />
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" integrity="sha384-v8BU367qNbs/aIZIxuivaU55N5GPF89WBerHoGA4QTcbUjYiLQtKdrfXnqAcXyTv" crossorigin="anonymous" />
+<meta name="generator" content="Hugo 0.67.1" />
+  </head>
+  <body>
+    
+  
+
+
+
+
+  <header>
+    <nav class="navbar">
+  <div class="nav">
+    
+
+    <ul class="nav-links">
+      
+        <li><a href="/about/">About</a></li>
+      
+        <li><a href="/index.xml">RSS</a></li>
+      
+    </ul>
+  </div>
+</nav>
+
+    <div class="intro-header">
+      <div class="container">
+        <div class="post-heading">
+          
+            <h1>Programming on the Cheap. How to Program on a $20 Device.</h1>
+          
+          
+            <span class="meta-post">
+  <i class="fa fa-calendar-alt"></i>&nbsp;Mar 13, 2020
+</span>
+
+          
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+  <div class="container" role="main">
+    <article class="article" class="blog-post">
+      <p>Like most people, I like to do things as cheaply as possible.</p>
+<p>This thought extends to programming for me. Lucky for us who are software developers, a lot of the tools we get to use are free.</p>
+<p>This includes programming languages with their compilers, IDEs and editors, and even operating systems. We can thank the pioneers of the
+free software movement and GNU project for this.</p>
+<div style="text-align:center"><img src="../../535px-Heckert_GNU_white.svg.png" alt="GNU logo" width="300" height="300"></div>
+<p>However, one thing we can&rsquo;t get for free is the computer that we write, compile, and run our programs on. Not only are computers not 
+free, they can be very expensive! In fact, on <a href="https://www.techradar.com/news/best-laptop-for-programming#8-asus-chromebook-flip">TechRadar</a>, the &ldquo;affordable&rdquo; option is the Asus Chromebook Flip. This machine retails for <strong>$579</strong>! If I was non developer looking to get into programming, I would be out almost <strong>$600</strong> before a single stroke of the keyboard.</p>
+<p>Knowing this, I decided to pop into my local thrift store and see if there was a remedy for this insanity. That&rsquo;s when I found this beauty:</p>
+<div style="text-align:center"><img src="../../laptop1.jpg" alt="Laptop found at thrift store" width="300" height="300"></div>
+<p>A gently used Dell Inspiron E1405 was in the technology section screaming my name. I looked at the price tag, only <strong>$20</strong>! What a steal! I quickly took out an Andrew Jackson and made off like a bandit.</p>
+<p>I got home, turned it on, and realized it had Windows XP on it:</p>
+<div style="text-align:center"><img src="../../laptop2.jpg" alt="Laptop with windows xp" width="300" height="300"></div>
+<p>I have no desire to program on a computer with an operating system that hasn&rsquo;t been updated in over a decade. That&rsquo;s where Linux comes in.</p>
+<p>Now this was an old laptop, so I wanted to use a lightweight operating system on it. I ultimately chose Lubuntu, because it has LxQt, one of the lightest desktop graphical systems around. And I generally spend my time in the terminal emulator and vim, so I didnt&rsquo;t need too many out of the box features.</p>
+<p>Lubuntu has a pretty straightforward <a href="https://help.ubuntu.com/community/Lubuntu/InstallingLubuntu">installation process</a>. I had no problems going through the steps in the guide. I did mistakenly try using the 64 bit version instead of the 32 bit version, which is what the cpu required.</p>
+<p>I could have avoided this though, if I looked it up beforehand: <a href="https://www.computerhope.com/issues/ch001121.htm">How to check</a></p>
+<p>With the stress and anxiety of $600 laptops behind me, I was able to fire up my new to me Lubuntu powered laptop, and write this blog post with great amounts of joy and happiness.</p>
+<div style="text-align:center"><img src="../../hacking_on_lubuntu.png" alt="Laptop using Lubuntu" width="600" height="450"></div>
+
+      
+        <div class="blog-tags">
+          
+            <a href="//tags/linux/">linux</a>&nbsp;
+          
+            <a href="//tags/frugal/">frugal</a>&nbsp;
+          
+        </div>
+      
+    </article>
+  </div>
+
+    <footer>
+  <div class="container">
+    <p class="credits copyright">
+      <a href="/about">Jacob Hell</a>
+      &nbsp;&copy;
+      2020
+
+      
+        &nbsp;/&nbsp;
+        <a href="/">Software Enlightenment</a>
+      
+
+      &nbsp;&ndash;&nbsp;
+      <i class="fas fa-moon" id="dark-mode-toggle"></i>
+
+      <p class="credits theme-by">
+        Powered By <a href="https://gohugo.io">Hugo</a>&nbsp;Theme <a href="https://github.com/matsuyoshi30/harbor">Harbor</a>
+      </p>
+    </p>
+  </div>
+</footer>
+
+  </body>
+  <script>
+  var toggle = document.getElementById("dark-mode-toggle");
+  var darkTheme = document.getElementById("dark-mode-theme");
+
+  
+  var savedTheme = localStorage.getItem("dark-mode-storage") || "light";
+  setTheme(savedTheme);
+
+  toggle.addEventListener("click", () => {
+    if (toggle.className === "fas fa-moon") {
+        setTheme("dark");
+    } else if (toggle.className === "fas fa-sun") {
+        setTheme("light");
+    }
+  });
+
+  function setTheme(mode) {
+    localStorage.setItem("dark-mode-storage", mode);
+
+    if (mode === "dark") {
+        darkTheme.disabled = false;
+        toggle.className = "fas fa-sun";
+    } else if (mode === "light") {
+        darkTheme.disabled = true;
+        toggle.className = "fas fa-moon";
+    }
+  }
+</script>
+
+</html>

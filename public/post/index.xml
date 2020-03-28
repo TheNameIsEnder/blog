@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Software Enlightenment</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Software Enlightenment</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java Programming is 90% Easier with Project Lombok</title>
+      <link>/post/project-lombok/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/project-lombok/</guid>
+      <description>&lt;p&gt;Writing in Java is a pain in the butt. Even simple code is verbose. Project Lombok condenses Java syntax. This reduction can be up to 90% of normal java code.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s see how Lombok does this.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Chain of Responsibility Pattern Makes Hard Validation Easy</title>
+      <link>/post/intro-chain-of-responsibility/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/intro-chain-of-responsibility/</guid>
+      <description>&lt;p&gt;I like my validation workflow the same way I like my IKEA tables. Easy to setup and with a cool name. Though the Chain of Responsibility is no &lt;a href=&#34;https://www.ikea.com/us/en/p/godfjord-bed-frame-gray-s99256172/&#34;&gt;Godfjord&lt;/a&gt;, it is pretty easy to use.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t Want to Create a Ton of Getters/Setters? Say Hello to the Abstract Document Pattern.</title>
+      <link>/post/intro-abstract-document-pattern/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/intro-abstract-document-pattern/</guid>
+      <description>&lt;p&gt;In this post, I talk about the Abstract Document pattern, which allows one to pseudo-dynamically create properties for a model. While keeping the type safety that statically typed languages like Java provide.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Have a lot of if/else Statements Doing Similar Things? Use an Abstract Factory!</title>
+      <link>/post/using-abstract-factory-pattern/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/using-abstract-factory-pattern/</guid>
+      <description>&lt;p&gt;When working on a legacy system, one of the more common problems I see is similar actions happening within if/else or control statements.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Programming on the Cheap. How to Program on a $20 Device.</title>
+      <link>/post/programming-on-the-cheap/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/programming-on-the-cheap/</guid>
+      <description>&lt;p&gt;Like most people, I like to do things as cheaply as possible.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

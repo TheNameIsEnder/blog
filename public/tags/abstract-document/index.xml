@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>abstract document on Software Enlightenment</title>
+    <link>/tags/abstract-document/</link>
+    <description>Recent content in abstract document on Software Enlightenment</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/abstract-document/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Don&#39;t Want to Create a Ton of Getters/Setters? Say Hello to the Abstract Document Pattern.</title>
+      <link>/post/intro-abstract-document-pattern/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/intro-abstract-document-pattern/</guid>
+      <description>&lt;p&gt;In this post, I talk about the Abstract Document pattern, which allows one to pseudo-dynamically create properties for a model. While keeping the type safety that statically typed languages like Java provide.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

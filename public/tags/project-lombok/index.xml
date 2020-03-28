@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project lombok on Software Enlightenment</title>
+    <link>/tags/project-lombok/</link>
+    <description>Recent content in project lombok on Software Enlightenment</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/project-lombok/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java Programming is 90% Easier with Project Lombok</title>
+      <link>/post/project-lombok/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/project-lombok/</guid>
+      <description>&lt;p&gt;Writing in Java is a pain in the butt. Even simple code is verbose. Project Lombok condenses Java syntax. This reduction can be up to 90% of normal java code.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s see how Lombok does this.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
