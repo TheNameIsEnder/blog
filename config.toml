@@ -12,7 +12,7 @@ theme = "harbor"
   unsafe = true
 
 [params]
-	GoogleAnalytics = "UA-161403382-1"
+	googleAnalytics = "UA-161403382-1"
 
 [Author]
   name = "Jacob Hell"
