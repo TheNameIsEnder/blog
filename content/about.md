@@ -7,7 +7,7 @@ author = "Jacob Hell"
 
 +++
 
-Hello!<img src="../../portrait.jpg" alt="Picture of Me" align="right" width="300" height="400">
+Hello!
 
 My name is Jacob. I'm a software engineer who currently lives in Huntsville, AL, also known as the Rocket City.
 
