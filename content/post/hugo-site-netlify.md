@@ -91,7 +91,7 @@ hugo serve
 
 Then in a browser, go to `localhost:1313`. You should see this:
 
-![Hugo New Site](../../hugo-site-netlify/hugo_new_site.PNG)
+<div style="text-align:center"><img src="../../hugo-site-netlify/hugo_new_site.PNG" alt="Hugo New Site" width="600" height="450"></div>
 
 ### Step 4: Create netlify.toml
 
@@ -184,10 +184,10 @@ Verify that your code was pushed.
 
 Should see this page:
 
-![Deploying visual](../../hugo-site-netlify/deploying_site.PNG)
+<div style="text-align:center"><img src="../../hugo-site-netlify/deploying_site.PNG" alt="Deploying visual" width="600" height="450"></div>
 
 Once Netlify finishes deploying, should see this:
-![Deploying Finished](../../hugo-site-netlify/deploy_published.PNG)
+<div style="text-align:center"><img src="../../hugo-site-netlify/deploy_published.PNG" alt="Deploying Finished" width="600" height="450"></div>
 
 Click `Preview deploy`. You will be taken to your live site!
 
