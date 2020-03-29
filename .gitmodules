@@ -2,3 +2,6 @@
 	path = softwareenlightenment/public
 	url = https://github.com/jakehell/jakehell.github.io.git
 	branch = master
+[submodule "themes/harbor"]
+	path = themes/harbor
+	url = https://github.com/matsuyoshi30/harbor.git
