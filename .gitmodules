@@ -1,3 +1,4 @@
 [submodule "themes/harbor"]
 	path = themes/harbor
 	url = https://github.com/jakehell/harbor.git
+	branch = master
