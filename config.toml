@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://jacobhell.com/"
 title = "Software Enlightenment"
 author = "Jacob Hell"
 paginate = 3
