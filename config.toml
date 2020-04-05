@@ -11,6 +11,12 @@ rssLimit = 20
 
 [params]
   googleAnalytics = "UA-161403382-1"
+  
+[params.staticman]
+    endpoint = "https://jacob-hell-staticman.herokuapp.com/v2/entry"
+    username = "jakehell"
+    repository = "blog"
+    branch = "master"
 
 [markup.goldmark.renderer]
   unsafe = true
