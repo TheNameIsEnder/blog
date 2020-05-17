@@ -1,16 +1,16 @@
 +++
 
 author = "Jacob Hell"
-title = "Flow: How Coronavirus Has Made Me Productive"
+title = "Flow: How Working from Home Has Made Me Productive"
 date = "2020-05-16"
-description = "The situation isn't good. But I'm making the most of it."
+description = "How Working from Home Has Made Me Productive."
 tags = [
     "productivity"
 ]
 
 +++
 
-I'm not able to go outside without a mask. But at least I've been productive.
+Working from home has been a boon for my productivity.
 
 <!--more-->
 
