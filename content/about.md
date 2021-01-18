@@ -17,7 +17,6 @@ Interested in knowing more about me? Please reach out by [email](mailto:jakehell
 
 * [LinkedIn](https://www.linkedin.com/in/jacob-hell)
 * [GitHub](https://github.com/jakehell)
-* [StackOverflow](https://stackoverflow.com/users/4367461/jhell)
 
 
 
