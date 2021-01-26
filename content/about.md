@@ -16,7 +16,7 @@ In this blog, I post about software architecture, design, unit testing, and some
 Interested in knowing more about me? Please reach out by [email](mailto:jakehell95@gmail.com), or by checking out some of these sites that I'm registered for:
 
 * [LinkedIn](https://www.linkedin.com/in/jacob-hell)
-* [GitHub](https://github.com/jakehell)
+* [GitHub](https://github.com/jacobhell)
 
 
 
