@@ -1,5 +1,5 @@
 baseURL = "https://jacobhell.com/"
-title = "Software Enlightenment"
+title = "Jacob Hell's Blog"
 author = "Jacob Hell"
 paginate = 3
 languageCode = "en"
@@ -14,7 +14,7 @@ rssLimit = 20
   
 [params.staticman]
     endpoint = "https://jacob-hell-staticman.herokuapp.com/v2/entry"
-    username = "jakehell"
+    username = "jacobhell"
     repository = "blog"
     branch = "master"
 
